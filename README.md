@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **leonardosilva/leonardosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Leonardo Silva
+Undergraduate student of Biolocigal Science at Federal University of Alagoas, and member of Quantitative Ecology Lab.
+
+Have interest in **Ecology**, **Open Science** and **Open Data**. 
+
+Undergraduate reaseacher since 2017
+> 2019/Nowadays - Open knowledge and non-orthodox methods of teaching ecology in Brazil
+> 
+> 2017/2019 - Open Science and research in Ecology in Brazil
+> 
+> 2017/2017 - State of Alagoas's biodiversity: Knowledge gaps and bibliographic production
