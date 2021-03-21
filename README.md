@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Leonardo Silva
-Undergraduate student of Biolocigal Science at Federal University of Alagoas, and member of Quantitative Ecology Lab.
-
-Have interest in **Ecology**, **Open Science** and **Open Data**. 
+Have interest in **Ecology**, **Open Science**, **Open Data** and **Open Knowledge**. 
 
 Undergraduate reaseacher since 2017
 > 2019/Nowadays - Open knowledge and non-orthodox methods of teaching ecology in Brazil
