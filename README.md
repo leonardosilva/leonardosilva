@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Leonardo Silva
+## Leonardo Silva
 Have interest in **Ecology**, **Open Science**, **Open Data** and **Open Knowledge**. 
 
 Undergraduate reaseacher since 2017
-> 2019/Nowadays - Open knowledge and non-orthodox methods of teaching ecology in Brazil
+> 2019/Current - Open knowledge and non-orthodox methods of teaching ecology in Brazil
 > 
 > 2017/2019 - Open Science and research in Ecology in Brazil
 > 
