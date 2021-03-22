@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Leonardo Silva
+## About me
 Have interest in **Ecology**, **Open Science**, **Open Data** and **Open Knowledge**. 
 
 Undergraduate reaseacher since 2017
